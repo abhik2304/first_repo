@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 927C-236D
+
+ Directory of E:\GitFolder
+
+01/17/2019  04:04 PM    <DIR>          .
+01/17/2019  04:04 PM    <DIR>          ..
+01/17/2019  04:04 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  603,094,548,480 bytes free
